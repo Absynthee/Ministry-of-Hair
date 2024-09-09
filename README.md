@@ -1,5 +1,8 @@
 <h1>Project Overview: Redesigning the Ministry of Hair Website</h1>
 
+![](./video-2.mp4)
+
+
 <p>This is a redesign for the hairdressers <a href="https://www.ministryofhair.com/" target="_blank">Ministry of Hair</a> located in Eastbourne, UK. I decided to take on this project because, as a local business that prides itself on providing top-notch services, their current website does not reflect the quality and modernity of their brand. The existing layout is dated, lacks visual appeal, and falls short in several key areas critical for success in today’s digital landscape.</p>
 
 <h4 class="blog-subtitle">Why This Redesign Was Necessary</h4>
