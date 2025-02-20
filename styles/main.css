@@ -401,7 +401,7 @@ header {
   .headerimg {
     position: absolute;
     align-self: center;
-    background: url(../images/desktop/image_header3.png);
+    background: url(../images/desktop/hero.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
